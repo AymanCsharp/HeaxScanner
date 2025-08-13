@@ -1,7 +1,7 @@
 .PHONY: help install test clean run demo quick-start lint format security-check build release
 
 help:
-	@echo "HEAX Scanner - Advanced Vulnerability Scanner"
+	@echo "HEAX Scanner"
 	@echo "=============================================="
 	@echo ""
 	@echo "Available targets:"
@@ -250,4 +250,5 @@ dev-help:
 	@echo "  security-check - Security checks"
 
 .DEFAULT_GOAL := help
+
 
