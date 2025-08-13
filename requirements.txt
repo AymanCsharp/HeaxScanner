@@ -10,7 +10,6 @@ rich==13.7.0
 pyfiglet==1.0.2
 termcolor==2.3.0
 schedule==1.2.0
-sqlite3
 threading
 concurrent.futures
 json
@@ -86,5 +85,6 @@ multiprocessing.connection
 multiprocessing.shared_memory
 multiprocessing.heap
 aiohttp
+
 
 
