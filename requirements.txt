@@ -1,4 +1,4 @@
-nmap-python==0.7.1
+python-nmap
 requests==2.31.0
 beautifulsoup4==4.12.2
 cryptography==41.0.7
@@ -85,4 +85,5 @@ multiprocessing.synchronize
 multiprocessing.connection
 multiprocessing.shared_memory
 multiprocessing.heap
+
 
