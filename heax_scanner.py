@@ -221,7 +221,7 @@ class HeaxScanner:
         self.console.print(Panel(
             Align.center(Text(banner, style="bold blue")),
             title="[bold red]Heax Scanner[/bold red]",
-            subtitle="[bold green]Advanced Vulnerability Scanner with AI/ML[/bold green]",
+            subtitle="[bold green]HeaxScanner By : AymanCsharp[/bold green]",
             border_style="blue"
         ))
         
@@ -230,7 +230,7 @@ class HeaxScanner:
     def display_main_menu(self):
         menu_text = """
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                           HEAX Scanner                                       ║
+║                             HEAX Scanner                                       ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
 ║  1  Single Network Scan                                                      ║
@@ -241,7 +241,7 @@ class HeaxScanner:
 ║  6  Deep Comprehensive Scan                                                  ║
 ║  7  View Previous Reports                                                    ║
 ║  8  Scanner Settings                                                         ║
-║  9  AI Models Management                                                     ║
+║  9  Models Management                                                     ║
 ║  10 Tool Integration                                                         ║
 ║  11 Dashboard                                                                ║
 ║  12 Critical Vulnerabilities                                                 ║
@@ -772,3 +772,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
