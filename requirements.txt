@@ -85,5 +85,6 @@ multiprocessing.synchronize
 multiprocessing.connection
 multiprocessing.shared_memory
 multiprocessing.heap
+aiohttp
 
 
