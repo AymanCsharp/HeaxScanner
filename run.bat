@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title HEAX Advanced Vulnerability Scanner
+title HEAX Scanner
 color 0A
 
 echo.
@@ -49,4 +49,5 @@ if errorlevel 1 (
 echo.
 echo [INFO] Tool execution finished
 pause
+
 
